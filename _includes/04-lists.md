@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+## Favourite things
+* pizza
+* star wars
+* cookies
+* cg
+* emojis :sunglasses:
