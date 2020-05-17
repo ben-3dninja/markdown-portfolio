@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Master Yoda](https://vignette.wikia.nocookie.net/fr.starwars/images/5/5f/Yoda.png/revision/latest?cb=20161009183018)
